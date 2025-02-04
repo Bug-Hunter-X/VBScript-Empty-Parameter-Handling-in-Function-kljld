@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: improper handling of empty function parameters. The `bug.vbs` file shows a function that throws a runtime error if called without a parameter.  The `bugSolution.vbs` file offers a more robust solution.
